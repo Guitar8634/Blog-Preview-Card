@@ -91,6 +91,11 @@ html {
     font-size: 1.5rem;
 }
 
+.hover {
+    display: grid;
+    gap: 20px;
+}
+
 .hover:hover {
     padding-inline: 9px;
     transition: all .25s ease-in-out;
